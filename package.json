@@ -1,0 +1,36 @@
+{
+  "name": "luna",
+  "displayName": "Luna Theme",
+  "description": "An eye-friendly dark color theme for night coding sessions.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "publisher": "kkeri",
+  "engines": {
+    "vscode": "^1.12.2"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#1c1818",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "bugs": {
+    "url": "https://github.com/kkeri/luna/issues"
+  },
+  "homepage": "https://github.com/kkeri/luna/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkeri/luna.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luna.json"
+      }
+    ]
+  }
+}
