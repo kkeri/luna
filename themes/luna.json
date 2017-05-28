@@ -34,7 +34,7 @@
         "constant.character"
       ],
       "settings": {
-        "foreground": "#e27966ff"
+        "foreground": "#e07c68ff"
       }
     },
     {
@@ -43,16 +43,17 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#db614fff"
+        "foreground": "#dc5c50ff"
       }
     },
     {
       "name": "Escape sequence",
       "scope": [
-        "constant.character.escape"
+        "constant.character.escape",
+        "constant.character punctuation.definition"
       ],
       "settings": {
-        "foreground": "#dd584aff"
+        "foreground": "#dc5c50ff"
       }
     },
     {
@@ -89,7 +90,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#cac2afff"
+        "foreground": "#c2bcacff"
       }
     },
     {
@@ -126,7 +127,7 @@
       "name": "Operator keyword",
       "scope": "keyword.operator.expression",
       "settings": {
-        "foreground": "#4dadd9ff"
+        "foreground": "#4ea6d8ff"
       }
     },
     {
@@ -137,7 +138,7 @@
         "keyword.operator.delete"
       ],
       "settings": {
-        "foreground": "#4dadd9ff"
+        "foreground": "#4ea6d8ff"
       }
     },
     {
@@ -146,7 +147,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#c4ada2ff"
+        "foreground": "#c2bcacff"
       }
     },
     {
@@ -167,7 +168,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#cac2afff"
+        "foreground": "#c2bcacff"
       }
     },
     {
@@ -179,7 +180,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#cac2afff"
+        "foreground": "#c2bcacff"
       }
     },
     {
@@ -190,7 +191,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#cac2afff"
+        "foreground": "#c2bcacff"
       }
     },
     {
@@ -199,53 +200,38 @@
         "entity.name.class",
         "entity.name.type",
         "support.type",
-        "support.type.primitive"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#5bc2d5ff"
-      }
-    },
-    {
-      "name": "Inherited class",
-      "scope": "entity.other.inherited-class",
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#5bc2d5ff"
-      }
-    },
-    {
-      "name": "Library type",
-      "scope": [
+        "support.type.primitive",
+        "entity.other.inherited-class",
         "support.type",
         "support.class"
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5bc2d5ff"
+        "foreground": "#5abbceff"
       }
     },
     {
-      "name": "Object literal property name",
+      "name": "property name",
       "scope": [
         "meta.object-literal.key",
         "meta.object-literal.key string.quoted",
-        "meta.object-literal.key punctuation.definition.string"
-      ],
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#53c7c3ff"
-      }
-    },
-    {
-      "name": "JSON property name",
-      "scope": [
+        "meta.object-literal.key punctuation.definition.string",
+        "meta.object-literal.key entity.name.function",
         "support.type.property-name",
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "fontStyle": "",
-        "foreground": "#5cbbd1ff"
+        "foreground": "#5db8c8ff"
+      }
+    },
+    {
+      "name": "attribute name",
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#5db8c8ff"
       }
     },
     {
@@ -253,15 +239,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": null,
-        "foreground": "#4dadd9ff"
-      }
-    },
-    {
-      "name": "Tag attribute",
-      "scope": "entity.other.attribute-name",
-      "settings": {
-        "fontStyle": null,
-        "foreground": "#d181b6ff"
+        "foreground": "#d180bdff"
       }
     },
     {
@@ -272,6 +250,11 @@
         "string.quoted.double.html",
         "punctuation.definition.string.begin.html",
         "punctuation.definition.string.end.html",
+        "string.unquoted.xml",
+        "string.quoted.single.xml",
+        "string.quoted.double.xml",
+        "punctuation.definition.string.begin.xml",
+        "punctuation.definition.string.end.xml",
         "string.quoted.double.json",
         "punctuation.definition.string.begin.json",
         "punctuation.definition.string.end.json",
@@ -280,7 +263,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#c4bdb5ff"
+        "foreground": "#d67762ff"
       }
     },
     {
@@ -288,12 +271,14 @@
       "scope": [
         "punctuation.definition.string.begin.html",
         "punctuation.definition.string.end.html",
+        "punctuation.definition.string.begin.xml",
+        "punctuation.definition.string.end.xml",
         "punctuation.definition.string.begin.json",
         "punctuation.definition.string.end.json"
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#9a8c9cff"
+        "foreground": "#d8684eff"
       }
     },
     {
