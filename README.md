@@ -7,11 +7,11 @@ My concept is using soft but distinctive colors for different parts of code.
 Background is darker than most other themes with a warm tint.
 I chose an outstanding color for constants as they worth extra attention.
 
-Have a nice time!
+## Screenshots
 
+![Javascript sample](image/js.png)
 
-
-
+![SVG sample](image/svg.png)
 
 ## License
 
