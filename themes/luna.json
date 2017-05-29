@@ -4,8 +4,8 @@
     {
       "settings": {
         "background": "#1c1818",
-        "caret": "#b0b0b0",
-        "foreground": "#b0b0b0",
+        "caret": "#c2bcacff",
+        "foreground": "#c2bcacff",
         "invisibles": "#3d3536",
         "editorWhitespace.foreground": "#3d3536",
         "guide": "#3d3536",
@@ -43,7 +43,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#dc5c50ff"
+        "foreground": "#dc5e52ff"
       }
     },
     {
@@ -53,7 +53,7 @@
         "constant.character punctuation.definition"
       ],
       "settings": {
-        "foreground": "#dc5c50ff"
+        "foreground": "#dc5e52ff"
       }
     },
     {
@@ -120,14 +120,14 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#d181b6ff"
+        "foreground": "#d480c0ff"
       }
     },
     {
       "name": "Operator keyword",
       "scope": "keyword.operator.expression",
       "settings": {
-        "foreground": "#4ea6d8ff"
+        "foreground": "#5eacd8ff"
       }
     },
     {
@@ -138,7 +138,7 @@
         "keyword.operator.delete"
       ],
       "settings": {
-        "foreground": "#4ea6d8ff"
+        "foreground": "#5eacd8ff"
       }
     },
     {
@@ -207,7 +207,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5abbceff"
+        "foreground": "#58c3d6ff"
       }
     },
     {
@@ -221,7 +221,7 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#5db8c8ff"
+        "foreground": "#58c3d6ff"
       }
     },
     {
@@ -231,7 +231,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5db8c8ff"
+        "foreground": "#58c3d6ff"
       }
     },
     {
@@ -239,7 +239,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": null,
-        "foreground": "#d180bdff"
+        "foreground": "#d480c0ff"
       }
     },
     {
@@ -248,22 +248,16 @@
         "string.unquoted.html",
         "string.quoted.single.html",
         "string.quoted.double.html",
-        "punctuation.definition.string.begin.html",
-        "punctuation.definition.string.end.html",
         "string.unquoted.xml",
         "string.quoted.single.xml",
         "string.quoted.double.xml",
-        "punctuation.definition.string.begin.xml",
-        "punctuation.definition.string.end.xml",
         "string.quoted.double.json",
-        "punctuation.definition.string.begin.json",
-        "punctuation.definition.string.end.json",
         "support.constant.property-value",
         "meta.property-value.css"
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#d67762ff"
+        "foreground": "#d87f6cff"
       }
     },
     {
@@ -278,7 +272,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#d8684eff"
+        "foreground": "#d86b52ff"
       }
     },
     {
