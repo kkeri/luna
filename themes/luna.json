@@ -120,7 +120,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#d480c0ff"
+        "foreground": "#d381c0ff"
       }
     },
     {
@@ -157,7 +157,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#dbb352ff"
+        "foreground": "#d9b354ff"
       }
     },
     {
@@ -239,7 +239,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": null,
-        "foreground": "#d480c0ff"
+        "foreground": "#d381c0ff"
       }
     },
     {
