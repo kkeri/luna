@@ -16,6 +16,7 @@ An outstanding color is picked for constants as they worth extra attention.
 ## Todo
 
 Set colors for Markdown and the diff view.
+Improve regex colors.
 
 ## License
 
