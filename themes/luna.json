@@ -34,7 +34,7 @@
         "constant.character"
       ],
       "settings": {
-        "foreground": "#c97f61ff"
+        "foreground": "#cc7c5eff"
       }
     },
     {
@@ -257,7 +257,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#c97f61ff"
+        "foreground": "#cc7c5eff"
       }
     },
     {

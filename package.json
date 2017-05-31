@@ -3,7 +3,7 @@
   "displayName": "Luna Theme",
   "description": "An eye-friendly dark color theme for night coding sessions.",
   "license": "MIT",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "kkeri",
   "engines": {
     "vscode": "^1.12.2"
