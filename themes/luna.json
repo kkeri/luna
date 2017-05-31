@@ -3,13 +3,13 @@
   "settings": [
     {
       "settings": {
-        "background": "#1c1818",
-        "caret": "#c2bcacff",
-        "foreground": "#c2bcacff",
+        "background": "#201c1cff",
+        "caret": "#b8b4a8ff",
+        "foreground": "#b8b4a8ff",
         "invisibles": "#3d3536",
         "editorWhitespace.foreground": "#3d3536",
         "guide": "#3d3536",
-        "lineHighlight": "#1a1616",
+        "lineHighlight": "#1c1818ff",
         "findMatchHighlight": "#0a6224ff",
         "selectionBackground": "#264e72ff",
         "wordHighlight": "#3c3545ff",
@@ -34,7 +34,7 @@
         "constant.character"
       ],
       "settings": {
-        "foreground": "#d57c60ff"
+        "foreground": "#c97f61ff"
       }
     },
     {
@@ -53,7 +53,7 @@
         "constant.character punctuation.definition"
       ],
       "settings": {
-        "foreground": "#d36951ff"
+        "foreground": "#d35a4dff"
       }
     },
     {
@@ -71,7 +71,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#edc63bff"
+        "foreground": "#e6c942ff"
       }
     },
     {
@@ -80,7 +80,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#edc63bff"
+        "foreground": "#e6c942ff"
       }
     },
     {
@@ -90,7 +90,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#c2bcacff"
+        "foreground": "#b8b4a8ff"
       }
     },
     {
@@ -109,7 +109,7 @@
         "keyword.operator"
       ],
       "settings": {
-        "foreground": "#b49eb7ff"
+        "foreground": "#b0a1b1ff"
       }
     },
     {
@@ -120,7 +120,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#cd83b0ff"
+        "foreground": "#cb81aeff"
       }
     },
     {
@@ -147,7 +147,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#c2bcacff"
+        "foreground": "#b8b4a8ff"
       }
     },
     {
@@ -157,7 +157,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ceae5fff"
+        "foreground": "#ccad64ff"
       }
     },
     {
@@ -168,7 +168,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#c2bcacff"
+        "foreground": "#b8b4a8ff"
       }
     },
     {
@@ -180,7 +180,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#c2bcacff"
+        "foreground": "#b8b4a8ff"
       }
     },
     {
@@ -191,7 +191,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#c2bcacff"
+        "foreground": "#b8b4a8ff"
       }
     },
     {
@@ -207,7 +207,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5ab6caff"
+        "foreground": "#5fb2c3ff"
       }
     },
     {
@@ -221,7 +221,7 @@
         "punctuation.support.type.property-name"
       ],
       "settings": {
-        "foreground": "#5ab6caff"
+        "foreground": "#5fb2c3ff"
       }
     },
     {
@@ -231,7 +231,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#5ab6caff"
+        "foreground": "#5fb2c3ff"
       }
     },
     {
@@ -239,7 +239,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": null,
-        "foreground": "#cd83b0ff"
+        "foreground": "#cb81aeff"
       }
     },
     {
@@ -257,7 +257,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#d07d68ff"
+        "foreground": "#c97f61ff"
       }
     },
     {
@@ -272,14 +272,14 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#c7684fff"
+        "foreground": "#d17457ff"
       }
     },
     {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#1c1818",
+        "background": "#201c1cff",
         "fontStyle": null,
         "foreground": "#9c786bff"
       }
@@ -288,7 +288,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#1c1818",
+        "background": "#201c1cff",
         "foreground": "#9c786bff"
       }
     }
