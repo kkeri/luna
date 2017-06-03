@@ -1,6 +1,7 @@
 # Change log
 
 - Color shell script variables, backticks and shebang.
+- Highlight bitwise operators in javascript as they are probably accidentally used.
 
 ## 0.1.3 - 2017-05-31
 

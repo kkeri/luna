@@ -113,6 +113,15 @@
       }
     },
     {
+      "name": "Javascript bitwise operator",
+      "scope": [
+        "keyword.operator.bitwise.js"
+      ],
+      "settings": {
+        "foreground": "#9789ffff"
+      }
+    },
+    {
       "name": "Keyword",
       "scope": [
         "keyword",
