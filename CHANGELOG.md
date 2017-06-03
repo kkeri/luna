@@ -1,5 +1,7 @@
 # Change log
 
+- Color shell script variables, backticks and shebang.
+
 ## 0.1.3 - 2017-05-31
 
 - Adapt the theme to screens with more intense colors.

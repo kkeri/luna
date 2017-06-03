@@ -6,9 +6,9 @@
         "background": "#201c1cff",
         "caret": "#b8b4a8ff",
         "foreground": "#b8b4a8ff",
-        "invisibles": "#3d3536",
-        "editorWhitespace.foreground": "#3d3536",
-        "guide": "#3d3536",
+        "invisibles": "#3d3536ff",
+        "editorWhitespace.foreground": "#3d3536ff",
+        "guide": "#3d3536ff",
         "lineHighlight": "#1c1818ff",
         "findMatchHighlight": "#0a6224ff",
         "selectionBackground": "#264e72ff",
@@ -273,6 +273,39 @@
       "settings": {
         "fontStyle": null,
         "foreground": "#d17457ff"
+      }
+    },
+    {
+      "name": "shell variable",
+      "scope": [
+        "variable.other.normal.shell",
+        "punctuation.definition.variable.shell",
+        "variable.other.special.shell",
+        "variable.other.positional.shell"
+      ],
+      "settings": {
+        "foreground": "#90b83aff"
+      }
+    },
+    {
+      "name": "shell backticks",
+      "scope": [
+        "string.interpolated.backtick.shell",
+        "string.interpolated.backtick.shell punctuation.definition.string.begin.shell",
+        "string.interpolated.backtick.shell punctuation.definition.string.end.shell"
+      ],
+      "settings": {
+        "foreground": "#9789ffff"
+      }
+    },
+    {
+      "name": "shebang",
+      "scope": [
+        "comment.line.shebang",
+        "comment.line.shebang punctuation.definition.comment.line.shebang"
+      ],
+      "settings": {
+        "foreground": "#9789ffff"
       }
     },
     {
