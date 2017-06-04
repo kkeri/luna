@@ -1,5 +1,7 @@
 # Change log
 
+- Extend coloring to all types of shell interpolation.
+
 ## 0.1.4 - 2017-06-03
 
 - Color shell script variables, backticks and shebang.

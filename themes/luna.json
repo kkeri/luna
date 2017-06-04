@@ -71,7 +71,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#e6c942ff"
+        "foreground": "#e3c845ff"
       }
     },
     {
@@ -80,7 +80,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#e6c942ff"
+        "foreground": "#e3c845ff"
       }
     },
     {
@@ -113,12 +113,12 @@
       }
     },
     {
-      "name": "Javascript bitwise operator",
+      "name": "Bitwise operator",
       "scope": [
         "keyword.operator.bitwise.js"
       ],
       "settings": {
-        "foreground": "#9789ffff"
+        "foreground": "#9a8cfcff"
       }
     },
     {
@@ -299,12 +299,12 @@
     {
       "name": "shell backticks",
       "scope": [
-        "string.interpolated.backtick.shell",
-        "string.interpolated.backtick.shell punctuation.definition.string.begin.shell",
-        "string.interpolated.backtick.shell punctuation.definition.string.end.shell"
+        "string.interpolated",
+        "string.interpolated punctuation.definition.string.begin.shell",
+        "string.interpolated punctuation.definition.string.end.shell"
       ],
       "settings": {
-        "foreground": "#9789ffff"
+        "foreground": "#9a8cfcff"
       }
     },
     {
@@ -314,7 +314,7 @@
         "comment.line.shebang punctuation.definition.comment.line.shebang"
       ],
       "settings": {
-        "foreground": "#9789ffff"
+        "foreground": "#9a8cfcff"
       }
     },
     {
