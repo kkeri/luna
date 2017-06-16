@@ -1,5 +1,6 @@
 # Change log
 
+- Color markdown files.
 - Color makefile targets and prerequisites.
 - Extend coloring to all types of shell interpolation.
 

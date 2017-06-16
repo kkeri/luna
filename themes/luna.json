@@ -336,6 +336,117 @@
       }
     },
     {
+      "name": "markdown header",
+      "scope": [
+        "markup.heading.markdown",
+        "punctuation.definition.heading.markdown",
+        "markup.heading.setext"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#569bc1ff"
+      }
+    },
+    {
+      "name": "markdown punctuation",
+      "scope": [
+        "punctuation.definition.markdown",
+        "beginning.punctuation.definition.list.markdown",
+        "meta.separator.markdown"
+      ],
+      "settings": {
+        "foreground": "#ccad64ff"
+      }
+    },
+    {
+      "name": "markdown italic",
+      "scope": [
+        "markup.italic.markdown"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "markdown bold",
+      "scope": [
+        "markup.bold.markdown"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#bdb9aeff"
+      }
+    },
+    {
+      "name": "markdown italic bold",
+      "scope": [
+        "markup.italic.markdown markup.bold.markdown",
+        "markup.bold.markdown markup.italic.markdown"
+      ],
+      "settings": {
+        "fontStyle": "italic bold",
+        "foreground": "#bdb9aeff"
+      }
+    },
+    {
+      "name": "markdown inline code",
+      "scope": [
+        "markup.inline.raw.markdown",
+        "punctuation.definition.raw.markdown"
+      ],
+      "settings": {
+        "foreground": "#ccad64ff"
+      }
+    },
+    {
+      "name": "markdown code block",
+      "scope": [
+        "punctuation.definition.markdown markup.fenced_code.block.markdown",
+        "fenced_code.block.language"
+      ],
+      "settings": {
+        "foreground": "#ccad64ff"
+      }
+    },
+    {
+      "name": "markdown link",
+      "scope": [
+        "markup.underline.link.image.markdown",
+        "markup.underline.link.markdown"
+      ],
+      "settings": {
+        "foreground": "#cb81b5ff"
+      }
+    },
+    {
+      "name": "markdown reference link",
+      "scope": [
+        "meta.link.reference.def.markdown constant.other.reference.link.markdown",
+        "meta.link.reference.def.markdown punctuation.definition.constant.markdown"
+      ],
+      "settings": {
+        "foreground": "#cc7c5eff"
+      }
+    },
+    {
+      "name": "markdown quote",
+      "scope": [
+        "markup.quote.markdown"
+      ],
+      "settings": {
+        "foreground": "#5fb2c3ff"
+      }
+    },
+    {
+      "name": "markdown horizontal line",
+      "scope": [
+        "meta.separator.markdown"
+      ],
+      "settings": {
+        "foreground": "#569bc1ff"
+      }
+    },
+    {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
