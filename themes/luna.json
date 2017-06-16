@@ -318,6 +318,24 @@
       }
     },
     {
+      "name": "makefile target",
+      "scope": [
+        "entity.name.function.target.makefile"
+      ],
+      "settings": {
+        "foreground": "#5fb2c3ff"
+      }
+    },
+    {
+      "name": "makefile prerequisites",
+      "scope": [
+        "meta.scope.prerequisites.makefile"
+      ],
+      "settings": {
+        "foreground": "#ccad64ff"
+      }
+    },
+    {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {

@@ -1,5 +1,6 @@
 # Change log
 
+- Color makefile targets and prerequisites.
 - Extend coloring to all types of shell interpolation.
 
 ## 0.1.4 - 2017-06-03
