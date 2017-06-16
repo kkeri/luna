@@ -1,5 +1,7 @@
 # Change log
 
+- Fine tune colors.
+- Line highligth is lighter for more comfort to the eyes.
 - Color markdown files.
 - Color makefile targets and prerequisites.
 - Extend coloring to all types of shell interpolation.
