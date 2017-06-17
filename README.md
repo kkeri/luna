@@ -18,8 +18,8 @@ File an [issue](https://github.com/kkeri/luna/issues) and let me know how can I 
 
 ## Todo
 
-Set colors for Markdown and the diff view.
-Improve regex colors.
+- diff view colors
+- improve regex colors
 
 ## License
 

@@ -1,9 +1,13 @@
 # Change log
 
+## 0.2.0 - 2017-06-17
+
+Add colors to markdown and makefiles.
+
+Other changes:
+
 - Fine tune colors.
 - Line highligth is lighter for more comfort to the eyes.
-- Color markdown files.
-- Color makefiles.
 - Extend coloring to all types of shell interpolation.
 
 ## 0.1.4 - 2017-06-03
