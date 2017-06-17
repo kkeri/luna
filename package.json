@@ -1,35 +1,35 @@
 {
-  "name": "luna",
-  "displayName": "Luna Theme",
-  "description": "An eye-friendly dark color theme for night coding sessions.",
-  "license": "MIT",
-  "version": "0.1.4",
-  "publisher": "kkeri",
-  "engines": {
-    "vscode": "^1.12.2"
-  },
-  "icon": "image/logo.png",
-  "galleryBanner": {
-    "color": "#201c1c",
-    "theme": "dark"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "bugs": {
-    "url": "https://github.com/kkeri/luna/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kkeri/luna.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Luna",
-        "uiTheme": "vs-dark",
-        "path": "./themes/luna.json"
-      }
-    ]
-  }
+    "name": "luna",
+    "displayName": "Luna Theme",
+    "description": "An eye-friendly dark color theme for night coding sessions.",
+    "license": "MIT",
+    "version": "0.2.0",
+    "publisher": "kkeri",
+    "engines": {
+        "vscode": "^1.12.2"
+    },
+    "icon": "image/logo.png",
+    "galleryBanner": {
+        "color": "#201c1c",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "bugs": {
+        "url": "https://github.com/kkeri/luna/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kkeri/luna.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Luna",
+                "uiTheme": "vs-dark",
+                "path": "./themes/luna.json"
+            }
+        ]
+    }
 }
