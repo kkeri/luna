@@ -344,7 +344,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#569bc1ff"
+        "foreground": "#4b9eccff"
       }
     },
     {
@@ -355,7 +355,7 @@
         "meta.separator.markdown"
       ],
       "settings": {
-        "foreground": "#ccad64ff"
+        "foreground": "#8eb240ff"
       }
     },
     {
@@ -395,7 +395,7 @@
         "punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#ccad64ff"
+        "foreground": "#8eb240ff"
       }
     },
     {
@@ -405,7 +405,7 @@
         "fenced_code.block.language"
       ],
       "settings": {
-        "foreground": "#ccad64ff"
+        "foreground": "#8eb240ff"
       }
     },
     {
@@ -443,7 +443,7 @@
         "meta.separator.markdown"
       ],
       "settings": {
-        "foreground": "#569bc1ff"
+        "foreground": "#4b9eccff"
       }
     },
     {
