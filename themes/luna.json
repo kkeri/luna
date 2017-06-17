@@ -293,7 +293,7 @@
         "variable.other.positional.shell"
       ],
       "settings": {
-        "foreground": "#90b83aff"
+        "foreground": "#8eb240ff"
       }
     },
     {
@@ -333,6 +333,16 @@
       ],
       "settings": {
         "foreground": "#ccad64ff"
+      }
+    },
+    {
+      "name": "makefile variable",
+      "scope": [
+        "variable.other.makefile",
+        "punctuation.definition.variable.makefile"
+      ],
+      "settings": {
+        "foreground": "#8eb240ff"
       }
     },
     {

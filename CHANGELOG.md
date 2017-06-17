@@ -3,7 +3,7 @@
 - Fine tune colors.
 - Line highligth is lighter for more comfort to the eyes.
 - Color markdown files.
-- Color makefile targets and prerequisites.
+- Color makefiles.
 - Extend coloring to all types of shell interpolation.
 
 ## 0.1.4 - 2017-06-03
