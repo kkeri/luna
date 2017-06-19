@@ -459,7 +459,6 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#201c1cff",
         "fontStyle": null,
         "foreground": "#af9187ff"
       }
@@ -468,7 +467,6 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#201c1cff",
         "foreground": "#af9187ff"
       }
     }
