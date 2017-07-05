@@ -1,5 +1,9 @@
 # Change log
 
+## 0.2.1 - 2017-07-05
+
+Move images to to the web.
+
 ## 0.2.0 - 2017-06-17
 
 Add colors to markdown and makefiles.
