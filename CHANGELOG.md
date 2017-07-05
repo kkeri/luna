@@ -2,7 +2,8 @@
 
 ## 0.2.1 - 2017-07-05
 
-Move images to to the web.
+- Move images to to the web.
+- Remove background color of invalid text.
 
 ## 0.2.0 - 2017-06-17
 
