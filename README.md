@@ -12,9 +12,9 @@ File an [issue](https://github.com/kkeri/luna/issues) and let me know how can I 
 
 ## Screenshots
 
-![Typescript sample](http://metamaya.org/doc/luna/ts.png)
+![Typescript sample](https://raw.githubusercontent.com/wiki/kkeri/luna/ts.png)
 
-![SVG sample](http://metamaya.org/doc/luna/svg.png)
+![SVG sample](https://raw.githubusercontent.com/wiki/kkeri/luna/svg.png)
 
 ## Todo
 
