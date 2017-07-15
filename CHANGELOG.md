@@ -1,5 +1,9 @@
 # Change log
 
+## 0.2.2 - 2017-07-15
+
+- Move screenshots to github so they will appear in the preview in VS Code.
+
 ## 0.2.1 - 2017-07-05
 
 - Move images to to the web.
