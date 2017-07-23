@@ -170,6 +170,27 @@
       }
     },
     {
+      "name": "Type parameter",
+      "scope": [
+        "punctuation.definition.typeparameters.begin",
+        "punctuation.definition.typeparameters.end"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#b49eb7ff"
+      }
+    },
+    {
+      "name": "Typescript type annotation",
+      "scope": [
+        "meta.type.annotation.ts",
+        "keyword.operator.type.annotation.ts"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Library variable",
       "scope": [
         "support.other.variable",

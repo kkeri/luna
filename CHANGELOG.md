@@ -1,5 +1,8 @@
 # Change log
 
+- Typescript type annotations are italic now.
+- Brackets around Typescript type parameters are brighter and italic.
+
 ## 0.2.2 - 2017-07-15
 
 - Move screenshots to github so they will appear in the preview in VS Code.
