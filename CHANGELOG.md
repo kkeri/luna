@@ -5,6 +5,7 @@
 - Darker rulers, whitespace and line numbers.
 - Darker find range highlight.
 - Assign different highlight color to the current find match.
+- Set colors for error and warning squiggles.
 - Typescript type annotations are italic now.
 - Brackets around Typescript type parameters are brighter and italic.
 - Style Typescript bitwise or operator similarly to Javascript.
