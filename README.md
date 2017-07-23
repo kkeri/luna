@@ -1,14 +1,11 @@
 # Luna Color Theme 
 
-Luna is a dark color theme I created for my late night coding sessions.
-You might like it too.
+Luna is a dark color theme I created for my late night coding sessions. You might like it too.
 
-My concept was using dimmed but distinctive colors for different parts of code.
-The background is darker than most other themes with a warm tint.
-An outstanding color is picked for constants as they worth extra attention.
+The theme is customized for Javascript, Typescript, JSON, HTML, XML, Markdown, makefiles and shell scripts,
+however it should work well with any language.
 
-The theme is currently in beta. 
-File an [issue](https://github.com/kkeri/luna/issues) and let me know how can I improve it.
+Luna is currently in beta. File an [issue](https://github.com/kkeri/luna/issues) and let me know how can I improve it.
 
 ## Screenshots
 
