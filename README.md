@@ -1,7 +1,7 @@
 # Luna Color Theme 
 
 Luna is a dark color theme I created for my late night coding sessions.
-You might like it as well.
+You might like it too.
 
 My concept was using dimmed but distinctive colors for different parts of code.
 The background is darker than most other themes with a warm tint.

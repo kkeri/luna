@@ -1,5 +1,8 @@
 # Change log
 
+- Fix global colors and transparency of global colors.
+- Darker ruler color.
+- Darker find range highlight.
 - Typescript type annotations are italic now.
 - Brackets around Typescript type parameters are brighter and italic.
 - Style Typescript bitwise or operator similarly to Javascript.

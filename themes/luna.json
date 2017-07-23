@@ -5,18 +5,20 @@
   "colorSpaceName": "sRGB",
   "semanticClass": "theme.dark.moonlight",
   "colors": {
-    "background": "#201c1cff",
-    "caret": "#b8b4a8ff",
-    "foreground": "#b8b4a8ff",
-    "invisibles": "#3d3536ff",
-    "editorWhitespace.foreground": "#3d3536ff",
-    "guide": "#3d3536ff",
-    "lineHighlight": "#242020ff",
+    "editor.background": "#201c1cff",
+    "editor.foreground": "#b8b4a8ff",
+    "editorCursor.foreground": "#ffffff90",
+    "editorWhitespace.foreground": "#5f857e48",
+    "editorIndentGuide.background": "#5f857e48",
+    "editorLineNumber.foreground": "#62827b80",
+    "editorRuler.foreground": "#78607060",
+    "editor.lineHighlightBackground": "#242020ff",
     "editor.findMatchBackground": "#0a6224ff",
     "editor.findMatchHighlightBackground": "#0a6224ff",
-    "selectionBackground": "#264e72ff",
-    "wordHighlight": "#3c3545ff",
-    "wordHighlightStrong": "#602e6aff"
+    "editor.findRangeHighlightBackground": "#0d353b40",
+    "editor.selectionBackground": "#17436dff",
+    "editor.wordHighlightBackground": "#90acbb40",
+    "editor.wordHighlightStrongBackground": "#e353ff57"
    },
   "tokenColors": [
     {
