@@ -326,7 +326,7 @@
         "string.interpolated punctuation.definition.string.end.shell"
       ],
       "settings": {
-        "foreground": "#9a8cfcff"
+        "foreground": "#8d8dfbff"
       }
     },
     {
@@ -336,7 +336,7 @@
         "comment.line.shebang punctuation.definition.comment.line.shebang"
       ],
       "settings": {
-        "foreground": "#9a8cfcff"
+        "foreground": "#8d8dfbff"
       }
     },
     {
