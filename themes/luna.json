@@ -61,6 +61,7 @@
       "scope": [
         "string.regexp",
         "string.regexp.js",
+        "string.regexp.ts",
         "constant.other.character-class.set.regexp"
       ],
       "settings": {
@@ -115,7 +116,8 @@
     {
       "name": "Bitwise operator",
       "scope": [
-        "keyword.operator.bitwise.js"
+        "keyword.operator.bitwise.js",
+        "keyword.operator.bitwise.ts"
       ],
       "settings": {
         "foreground": "#9a8cfcff"
@@ -205,8 +207,7 @@
       "name": "Function",
       "scope": [
         "entity.name.function",
-        "support.function",
-        "support.function.js"
+        "support.function"
       ],
       "settings": {
         "fontStyle": null,
