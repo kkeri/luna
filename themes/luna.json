@@ -18,7 +18,9 @@
     "editor.findRangeHighlightBackground": "#0d353b40",
     "editor.selectionBackground": "#17476fff",
     "editor.wordHighlightBackground": "#90acbb40",
-    "editor.wordHighlightStrongBackground": "#e353ff57"
+    "editor.wordHighlightStrongBackground": "#e353ff5c",
+    "editorBracketMatch.background": "#13282eff",
+    "editorBracketMatch.border": "#299ebbff"
    },
   "tokenColors": [
     {
