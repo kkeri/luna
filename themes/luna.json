@@ -1,21 +1,24 @@
 {
   "name": "Luna",
-  "settings": [
-    {
-      "settings": {
-        "background": "#201c1cff",
-        "caret": "#b8b4a8ff",
-        "foreground": "#b8b4a8ff",
-        "invisibles": "#3d3536ff",
-        "editorWhitespace.foreground": "#3d3536ff",
-        "guide": "#3d3536ff",
-        "lineHighlight": "#242020ff",
-        "findMatchHighlight": "#0a6224ff",
-        "selectionBackground": "#264e72ff",
-        "wordHighlight": "#3c3545ff",
-        "wordHighlightStrong": "#602e6aff"
-      }
-    },
+  "author": "Kalman Keri",
+  "uuid": "21889885-5262-4D4A-BCB7-038701BBF46E",
+  "colorSpaceName": "sRGB",
+  "semanticClass": "theme.dark.moonlight",
+  "colors": {
+    "background": "#201c1cff",
+    "caret": "#b8b4a8ff",
+    "foreground": "#b8b4a8ff",
+    "invisibles": "#3d3536ff",
+    "editorWhitespace.foreground": "#3d3536ff",
+    "guide": "#3d3536ff",
+    "lineHighlight": "#242020ff",
+    "editor.findMatchBackground": "#0a6224ff",
+    "editor.findMatchHighlightBackground": "#0a6224ff",
+    "selectionBackground": "#264e72ff",
+    "wordHighlight": "#3c3545ff",
+    "wordHighlightStrong": "#602e6aff"
+   },
+  "tokenColors": [
     {
       "name": "Comment",
       "scope": [
@@ -494,9 +497,5 @@
         "foreground": "#af9187ff"
       }
     }
-  ],
-  "uuid": "21889885-5262-4D4A-BCB7-038701BBF46E",
-  "colorSpaceName": "sRGB",
-  "semanticClass": "theme.dark.moonlight",
-  "author": "Kalman Keri"
+  ]
 }
