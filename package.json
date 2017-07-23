@@ -10,7 +10,7 @@
     },
     "icon": "image/logo.png",
     "galleryBanner": {
-        "color": "#201c1c",
+        "color": "#1f1d1d",
         "theme": "dark"
     },
     "categories": [
@@ -31,5 +31,14 @@
                 "path": "./themes/luna.json"
             }
         ]
-    }
+    },
+    "keywords": [
+      "luna",
+      "dark",
+      "soft",
+      "easy",
+      "colorful",
+      "dimmed",
+      "web"
+    ]
 }
