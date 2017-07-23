@@ -312,7 +312,9 @@
         "variable.other.normal.shell",
         "punctuation.definition.variable.shell",
         "variable.other.special.shell",
-        "variable.other.positional.shell"
+        "variable.other.positional.shell",
+        "string.other.math.shell punctuation.definition.string.begin.shell",
+        "string.other.math.shell punctuation.definition.string.end.shell"
       ],
       "settings": {
         "foreground": "#8eb240ff"

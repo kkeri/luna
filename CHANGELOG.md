@@ -2,6 +2,8 @@
 
 - Typescript type annotations are italic now.
 - Brackets around Typescript type parameters are brighter and italic.
+- Style Typescript bitwise or operator similarly to Javascript.
+- Fix color of shell arithmetic expressions.
 
 ## 0.2.2 - 2017-07-15
 
