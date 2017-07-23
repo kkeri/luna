@@ -71,7 +71,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#e3c845ff"
+        "foreground": "#e3c53fff"
       }
     },
     {
@@ -80,7 +80,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#e3c845ff"
+        "foreground": "#e3c53fff"
       }
     },
     {
@@ -166,7 +166,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ccad64ff"
+        "foreground": "#cead62ff"
       }
     },
     {
