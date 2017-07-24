@@ -2,6 +2,7 @@
 
 - Darken find range color.
 - Fine tune colors for visible white space and line numbers.
+- Invalid text gets the same color as normal foreground.
 
 # 0.3.0 - 2017-07-24
 
