@@ -1,6 +1,7 @@
 # Change log
 
 - Darken find range color.
+- Fine tune colors for visible white space and line numbers.
 
 # 0.3.0 - 2017-07-24
 
