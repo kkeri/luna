@@ -1,5 +1,7 @@
 # Change log
 
+# 0.3.0 - 2017-07-25
+
 - Fix global colors and transparency of global colors.
 - More neutral background color.
 - Darker rulers, whitespace and line numbers.
