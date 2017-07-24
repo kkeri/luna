@@ -1,6 +1,8 @@
 # Change log
 
-# 0.3.0 - 2017-07-25
+- Darken find range color.
+
+# 0.3.0 - 2017-07-24
 
 - Fix global colors and transparency of global colors.
 - More neutral background color.
