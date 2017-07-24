@@ -1,5 +1,7 @@
 # Change log
 
+# 0.3.1 - 2017-07-25
+
 - Darken find range color.
 - Fine tune colors for visible white space and line numbers.
 - Invalid text gets the same color as normal foreground.
