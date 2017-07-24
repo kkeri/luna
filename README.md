@@ -15,7 +15,6 @@ Luna is currently in beta. File an [issue](https://github.com/kkeri/luna/issues)
 
 ## Todo
 
-- diff view colors
 - improve regex colors
 
 ## License

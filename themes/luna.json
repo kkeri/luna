@@ -22,7 +22,9 @@
     "editorBracketMatch.background": "#13282eff",
     "editorBracketMatch.border": "#49a3b9ff",
     "editorError.foreground": "#e22230ff",
-    "editorWarning.foreground": "#0fbf5aff"
+    "editorWarning.foreground": "#0fbf5aff",
+    "diffEditor.insertedTextBackground": "#0e9e4024",
+    "diffEditor.removedTextBackground": "#d4001a24"
    },
   "tokenColors": [
     {
