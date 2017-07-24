@@ -20,7 +20,7 @@
     "editor.wordHighlightBackground": "#7ca6bc40",
     "editor.wordHighlightStrongBackground": "#e353ff5c",
     "editorBracketMatch.background": "#13282eff",
-    "editorBracketMatch.border": "#299ebbff",
+    "editorBracketMatch.border": "#49a3b9ff",
     "editorError.foreground": "#e22230ff",
     "editorWarning.foreground": "#0fbf5aff"
    },
