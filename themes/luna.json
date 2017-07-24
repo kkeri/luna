@@ -6,7 +6,7 @@
   "semanticClass": "theme.dark.moonlight",
   "colors": {
     "editor.background": "#1f1d1dff",
-    "editor.foreground": "#b8b4a8ff",
+    "editor.foreground": "#b5b1a5ff",
     "editorCursor.foreground": "#ffffff90",
     "editorWhitespace.foreground": "#5f857e48",
     "editorIndentGuide.background": "#5f857e48",
@@ -100,7 +100,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#b8b4a8ff"
+        "foreground": "#b5b1a5ff"
       }
     },
     {
@@ -167,7 +167,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#b8b4a8ff"
+        "foreground": "#b5b1a5ff"
       }
     },
     {
@@ -209,7 +209,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#b8b4a8ff"
+        "foreground": "#b5b1a5ff"
       }
     },
     {
@@ -220,7 +220,7 @@
       ],
       "settings": {
         "fontStyle": null,
-        "foreground": "#b8b4a8ff"
+        "foreground": "#b5b1a5ff"
       }
     },
     {
@@ -231,7 +231,7 @@
         "support.variable.property"
       ],
       "settings": {
-        "foreground": "#b8b4a8ff"
+        "foreground": "#b5b1a5ff"
       }
     },
     {
